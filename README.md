@@ -7,6 +7,7 @@
 ### Skills
 - Languages: JavaScript, C, java
 - Tools: Git
+- Platforms: Android Development
 
 ### Projects
-- [test](https://github.com/ohjaoh) - Short description of the project.
+- [AndroidProjects](https://github.com/ohjaoh/AndroidProjects) - 첫 팀 프로젝트
