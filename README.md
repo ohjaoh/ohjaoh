@@ -5,10 +5,12 @@
 - 🌱 졸업예정자입니다.
 
 ### Skills
-- Languages: JavaScript, C, java, SpringBoot, React, 
+- Languages: C, java, SpringBoot, JavaScript, React, php
 - Tools: Git, Visual Studion Code, Eclipse, Android Studio
 
 ### Projects
 - [AndroidProjects](https://github.com/ohjaoh/AndroidProjects) - 안드로이드 프로젝트
 - [SpringProjects](https://github.com/ohjaoh/Spring-Project) - 스프링부트 프로젝트
 - [3D-interactive-web](https://github.com/yuhan19-plus/yuhan-interactive-web) - 3D-interactive-web 프로젝트
+- [php-project](https://github.com/ohjaoh/2-1php) -php 프로젝트 참고영상 (https://youtu.be/V2ei_k_3QCw)
+
