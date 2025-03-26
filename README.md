@@ -19,14 +19,6 @@
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=%23fff" />&nbsp
-  <img src="https://img.shields.io/badge/C-000.svg?style=for-the-badge&logo=c&logoColor=A8B9CC" />&nbsp
-</div>
-
-<br>
-
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
