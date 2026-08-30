@@ -37,8 +37,8 @@
 <img src="https://img.shields.io/badge/three.js Project-%23fff?style=flat&logo=threedotjs&logoColor=%23000"><img src="https://img.shields.io/badge/mysql Server-%234479A1?style=flat&logo=mysql&logoColor=%23fff"/>
 
 # Overview
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjaoh&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjaoh&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjaoh&show_icons=true&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjaoh&show_icons=true&rank_icon=github) -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohja1004)](https://solved.ac/ohja1004/)
